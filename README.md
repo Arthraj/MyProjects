@@ -1,3 +1,4 @@
 # MyProjects
-Projects made on my own.\n
+Projects made on my own.
+
 1.BANK MANAGEMENT SYSTEM.
