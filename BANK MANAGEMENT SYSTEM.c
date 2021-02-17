@@ -111,6 +111,7 @@ void main()
 
 int password(int p)
 {
+    int acc=p;
     int rev=0;
     while(acc>0)
     {
